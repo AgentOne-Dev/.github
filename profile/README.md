@@ -5,3 +5,7 @@ It's in public beta right now! Check out https://www.agent-one.dev/ to get start
 
 To get in touch, join the Discord:
 https://www.agent-one.dev/discord
+
+## OSS Projects
+
+- AI Model Directory: https://github.com/The-Best-Codes/ai-model-directory / https://models.agent-one.dev
