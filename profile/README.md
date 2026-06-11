@@ -4,8 +4,8 @@ AgentOne is an AI agent. It supports deep research, MCP servers, and using your 
 We've released v1.0.0! Check out https://www.agent-one.dev/ to get started.
 
 To get in touch, join the Discord or the forum:
-https://www.agent-one.dev/discord
-https://forum.agent-one.dev/
+- https://www.agent-one.dev/discord
+- https://forum.agent-one.dev/
 
 ## Open-source Initiatives
 
